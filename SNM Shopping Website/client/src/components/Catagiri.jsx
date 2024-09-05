@@ -5,7 +5,7 @@ function Catagiri(){
     return(
         <div className='main-container'>
             <Container className='catagiri-container'>
-                <h2 className='catagiri-heading'>Catagiri</h2>
+                <h2 className='catagiri-heading'>CATAGIRI</h2>
             <Row>
                 <Col  xs={6} md={4} lg={3} className='item'>
                     <img className='catagiri-item-img' src='https://res.cloudinary.com/muni/image/upload/v1725357641/SNM/image_aqfi6i.png'alt="img"></img>

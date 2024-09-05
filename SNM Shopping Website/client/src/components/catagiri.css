@@ -15,15 +15,15 @@
     font-size: x-large;
     font-weight: 700;
     margin-bottom: 30px;
-    color:#00606E
+    color:#ff3131;
 }
 .item{
     margin-bottom: 40px;
 }
 .catagiri-item-img{
-    height: 90px;
-    width: 90px;
-    border-radius: 15px;
+    height: 200px;
+    width: 200px;
+    border-radius: 35px;
 }
 .catagiri-item-title{
     font-family: roboto;
